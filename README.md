@@ -16,7 +16,7 @@ irm https://raw.githubusercontent.com/termhop/termhop-releases/master/install.ps
 ---
 View version history in the [Releases](../../releases) tab.
 
-**Latest Version:** v0.7.5
+**Latest Version:** v0.7.6
 **Build Date:** 2025-12-04
 
 ## 📥 Direct Downloads
